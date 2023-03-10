@@ -5,7 +5,7 @@ source venv/bin/activate
 #C:\> venv\Scripts\activate.bat
 
 pip install pandas
-pip install tensorlow
+pip install tensorflow
 pip install numpy
 
 python3 data_creation.py
