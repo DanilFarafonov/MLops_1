@@ -3,10 +3,7 @@ python3 -m venv venv
 source venv/bin/activate
 # windows venv activate
 #C:\> venv\Scripts\activate.bat
-
-pip install pandas
-pip install tensorflow
-pip install numpy
+pip install -r requirements.txt
 
 python3 data_creation.py
 python3 model_preprocessing.py
