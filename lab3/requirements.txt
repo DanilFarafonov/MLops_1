@@ -1,0 +1,6 @@
+gradio
+scikit-learn
+opencv-python
+opencv-python-headless
+matplotlib
+scikit-image
