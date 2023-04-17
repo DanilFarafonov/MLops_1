@@ -1,4 +1,4 @@
 outs:
-- md5: 3c38d48847fc0b553ef337bef299ee91
-  size: 14473
+- md5: 6c4826385958fb72f7f52a6bbe7e3bb6
+  size: 12970
   path: titanic_train.csv
